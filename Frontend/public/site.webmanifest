@@ -1,0 +1,26 @@
+{
+  "name": "FRYGUY Multi-Brand Food Destination Platform",
+  "short_name": "FRYGUY",
+  "description": "Multi-brand digital ordering and operations platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F5",
+  "theme_color": "#ED1C24",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

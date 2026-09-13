@@ -1,0 +1,6 @@
+{
+  "name": "FRYGUY Multi-Brand Food Platform",
+  "description": "Multi-brand digital ordering and restaurant operations platform for a shared food destination with table QR, brand menus, kitchen routing, counter POS, and central administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
